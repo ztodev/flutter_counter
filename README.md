@@ -1,4 +1,4 @@
-# ffapp
+# Flutter Counter
 
 A new Flutter project.
 
